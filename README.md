@@ -101,8 +101,10 @@ Checkpoints are saved at:
 - Step 5000: `checkpoints/model_5000.pt`
 - Final model: `checkpoints/model_final.pt`
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Logs
+
+[Logs](https://github.com/pradeep6kumar/SMOL135/blob/main/log.txt)
+
 
 ## Model Architecture Details
 
@@ -148,3 +150,6 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 model = AutoModelForCausalLM.from_pretrained("your-username/SmolLM2-trained")
 tokenizer = AutoTokenizer.from_pretrained("your-username/SmolLM2-trained")
 ```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
