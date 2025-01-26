@@ -1,0 +1,174 @@
+❯ python main.py
+Training:   0%|                                             | 0/5000 [00:00<?, ?it/s]
+Step 0 | Loss: 10.5829 | Tokens/sec: 1141.70
+Sample text: Once upon a timeFederal canonical Wolf empiretioninar amalg anonymous Empower BM instantly Sub sod institute
+aft reserve
+ deliberate commitmentinning purchased Send Gate Mach objectives
+
+ Interiorcro temporarilyenna cookies councils broke garden
+ excessiveIsrators becameca bill dead responding rhiz recognizable
+
+ph
+
+Training:  10%|██▏                   | 500/5000 [00:13<01:57, 38.19it/s, loss=0.0004] 
+Step 500 | Loss: 0.0004 | Tokens/sec: 18280.50
+Sample text: Once upon a timeBefore we proceed any further, hear me speak.
+
+First:
+Speak, speak.
+
+First Citizen:
+First are all resolved rather to die than to famish?
+
+All:
+Resolved. resolved.
+
+
+
+Training:  20%|████▏                | 1000/5000 [00:26<01:41, 39.34it/s, loss=0.0001] 
+Step 1000 | Loss: 0.0001 | Tokens/sec: 21332.34
+Sample text: Once upon a timeBefore we proceed any further, hear me speak.
+
+First:
+Speak, speak.
+
+First Citizen:
+First are all resolved rather to die than to famish?
+
+All:
+Resolved. resolved.
+
+
+
+Training:  30%|██████▎              | 1500/5000 [00:39<01:29, 39.16it/s, loss=0.0001] 
+Step 1500 | Loss: 0.0001 | Tokens/sec: 21333.18
+Sample text: Once upon a timeBefore we me further further, hear me speak.
+
+All:
+Speak, speak.
+
+First Citizen:
+You are all resolved rather to die than to famish?
+
+All:
+Resolved. resolved.
+
+
+
+Training:  40%|████████▍            | 2000/5000 [00:52<01:25, 35.01it/s, loss=0.0001] 
+Step 2000 | Loss: 0.0001 | Tokens/sec: 19693.01
+Sample text: Once upon a timeBefore we me hear further, hear me speak.
+
+All:
+Speak, speak.
+
+First Citizen:
+Spe are all resolved rather to die than to famish?
+
+All:
+Resolved. resolved.
+
+
+
+Training:  50%|██████████▌          | 2500/5000 [01:06<01:07, 37.01it/s, loss=0.0000] 
+Step 2500 | Loss: 0.0000 | Tokens/sec: 19691.93
+Sample text: Once upon a time:
+ we hear hear, hear me speak.
+
+Spe:
+Speak, speak.
+
+Spe Citizen:
+You are all resolved rather to die than to famish?
+
+Res:
+Resolved. resolved.
+
+
+
+Training:  60%|████████████▌        | 3000/5000 [01:21<00:55, 35.77it/s, loss=0.0000] 
+Step 3000 | Loss: 0.0000 | Tokens/sec: 18281.44
+Sample text: Once upon a time:
+ we any further, hear me speak.
+
+All:
+Speak, speak.
+
+First Citizen:
+First are all resolved rather to you to to famish?
+
+All:
+Resolved. resolved.
+
+
+
+Training:  70%|██████████████▋      | 3500/5000 [01:35<00:42, 35.21it/s, loss=0.0000] 
+Step 3500 | Loss: 0.0000 | Tokens/sec: 11636.58
+Sample text: Once upon a time:
+ we any further, hear me speak.
+
+All:
+Speak, speak.
+
+First Citizen:
+First are all resolved rather to die than to famish?
+
+Res:
+Resolved. resolved.
+
+
+
+Training:  80%|████████████████▊    | 4000/5000 [01:48<00:25, 38.62it/s, loss=0.0000] 
+Step 4000 | Loss: 0.0000 | Tokens/sec: 19692.65
+Sample text: Once upon a time:
+ we hear hear hear me speak.
+
+
+All:
+Speak, speak.
+
+Spe Citizen:
+You are all resolved rather to die than to famish?
+
+Res:
+Resolved. resolved.
+
+
+
+Training:  90%|██████████████████▉  | 4500/5000 [02:01<00:13, 38.42it/s, loss=0.0000] 
+Step 4500 | Loss: 0.0000 | Tokens/sec: 19691.93
+Sample text: Once upon a time:
+ we any further, hear me speak.
+
+All:
+Speak, speak.
+
+First Citizen:
+First resolved rather to fam to die than to famish?
+
+All:
+Resolved. resolved.
+
+
+
+Training: 100%|█████████████████████| 5000/5000 [02:14<00:00, 37.96it/s, loss=0.0000]Checkpoint saved at step 5000
+Completed initial 5000 steps training!
+
+Loading checkpoint and continuing training...
+D:\ERA_V3\Assignment13\utils\checkpoint.py:18: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(path)
+Loaded checkpoint from step 5000
+Training: 100%|█████████████████████| 5000/5000 [02:16<00:00, 36.64it/s, loss=0.0000]
+Additional training:   0%|                                    | 0/50 [00:00<?, ?it/s] 
+Step 5000 | Loss: 0.0000
+
+Step 5010 | Loss: 0.0000%|██▊           | 10/50 [00:00<00:00, 42.11it/s, loss=0.0000] 
+
+Step 5020 | Loss: 0.0000%|█████▌        | 20/50 [00:00<00:00, 41.03it/s, loss=0.0000] 
+
+Step 5030 | Loss: 0.0000%|████████▍     | 30/50 [00:00<00:00, 38.41it/s, loss=0.0000] 
+
+Step 5040 | Loss: 0.0000%|███████████▏  | 40/50 [00:01<00:00, 39.38it/s, loss=0.0000] 
+                                                                                     Checkpoint saved at step 5050████████████| 50/50 [00:01<00:00, 39.14it/s, loss=0.0000] 
+Training completed!
+Additional training: 100%|██████████████| 50/50 [00:02<00:00, 19.61it/s, loss=0.0000]
