@@ -140,8 +140,8 @@ The SmolLM2 model follows a standard transformer architecture with:
 **Total Parameters**: ~93M parameters
 
 ## Model Links
-- [Hugging Face Model Repository](https://huggingface.co/your-username/SmolLM2-trained)
-- [Hugging Face Spaces Demo](https://huggingface.co/spaces/your-username/SmolLM2-demo)
+- [Hugging Face Model Repository](https://huggingface.co/spaces/pradeep6kumar2024/smollm2-spaces/tree/main)
+- [Hugging Face Spaces Demo](https://huggingface.co/spaces/pradeep6kumar2024/smollm2-spaces)
 
 To use the model from Hugging Face:
 ```python
